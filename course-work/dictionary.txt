@@ -1,0 +1,251 @@
+be | быть
+to | к
+of | из
+and | и
+in | в
+that | что
+have | иметь
+I | я
+it | это
+for | для
+not | не
+on | на
+with | с
+he | он
+as | как
+you | ты
+do | делать
+at | у
+this | этот
+but | но
+his | его
+from | от
+they | они
+one | один
+we | мы
+most | большинство
+own | собственный
+leave | оставлять
+put | класть
+while | пока
+great | великий
+same | тот же
+another | другой
+might | может
+about | о
+who | кто
+get | получать
+which | который
+go | идти
+me | мне
+when | когда
+make | делать
+can | мочь
+like | нравиться
+time | время
+no | нет
+just | просто
+him | ему
+know | знать
+take | брать
+people | люди
+into | в
+year | год
+your | твой
+good | хороший
+some | некоторый
+could | мог
+them | им
+see | видеть
+other | другой
+than | чем
+then | затем
+now | сейчас
+look | смотреть
+only | только
+come | приходить
+its | его
+over | над
+think | думать
+also | также
+back | назад
+after | после
+use | использовать
+two | два
+how | как
+our | наш
+work | работать
+first | первый
+well | хорошо
+way | способ
+even | даже
+new | новый
+want | хотеть
+because | потому что
+any | любой
+these | эти
+give | давать
+day | день
+us | нам
+is | есть
+was | был
+are | являются
+were | были
+had | имел
+did | сделал
+been | был
+more | больше
+who's | кто
+it's | это
+I'm | я
+I'll | я
+we're | мы
+they're | они
+don't | не
+can't | не
+won't | не
+does | делает
+didn't | не
+has | имеет
+having | имея
+those | те
+each | каждый
+many | многие
+such | такой
+little | мало
+man | мужчина
+part | часть
+long | длинный
+feel | чувствовать
+call | звать
+life | жизнь
+still | все еще
+try | пытаться
+last | последний
+ask | спрашивать
+need | нуждаться
+too | слишком
+feelings | чувства
+three | три
+state | состояние
+never | никогда
+become | становиться
+between | между
+high | высокий
+something | что-то
+really | действительно
+much | много
+family | семья
+old | старый
+mean | означать
+keep | держать
+student | студент
+why | почему
+let | позволять
+big | большой
+group | группа
+begin | начинать
+seem | казаться
+country | страна
+help | помогать
+talk | разговаривать
+turn | поворачивать
+start | начинать
+hand | рука
+show | показывать
+hear | слышать
+play | играть
+run | бежать
+move | двигаться
+live | жить
+believe | верить
+hold | держать
+bring | приносить
+happen | случаться
+must | должен
+write | писать
+provide | обеспечивать
+sit | сидеть
+stand | стоять
+lose | терять
+pay | платить
+meet | встречать
+include | включать
+continue | продолжать
+set | устанавливать
+learn | учиться
+change | менять
+lead | вести
+understand | понимать
+watch | смотреть
+follow | следовать
+stop | останавливать
+create | создавать
+speak | говорить
+read | читать
+allow | позволять
+add | добавлять
+spend | тратить
+grow | расти
+open | открывать
+walk | ходить
+win | выигрывать
+offer | предлагать
+remember | помнить
+love | любить
+consider | рассматривать
+appear | появляться
+buy | покупать
+wait | ждать
+serve | служить
+die | умирать
+send | посылать
+dog | собака
+expect | ожидать
+build | строить
+stay | оставаться
+fall | падать
+cut | резать
+reach | достигать
+kill | убивать
+remain | оставаться
+look forward | ожидать
+look forward to | ждать
+as soon as possible | как можно скорее
+as soon as | как только
+by the way | кстати
+in order to | для того чтобы
+at least | по крайней мере
+at all | вообще
+as well as | а также
+because of | из-за
+according to | согласно
+take part | принимать участие
+pay attention | обращать внимание
+make sure | убедиться
+take care | заботиться
+look after | присматривать
+look for | искать
+turn on | включать
+turn off | выключать
+give up | сдаваться
+find out | выяснять
+set up | настраивать
+take off | взлетать
+wake up | просыпаться
+fall asleep | засыпать
+get up | вставать
+get along | ладить
+depend on | зависеть от
+rely on | полагаться на
+deal with | иметь дело с
+come up with | придумать
+end up | оказаться
+due to | вследствие
+in spite of | несмотря на
+look like | выглядеть как
+feel like | хотеть
+point out | указывать
+figure out | разбираться
+carry out | осуществлять
+put off | откладывать
